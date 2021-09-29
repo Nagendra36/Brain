@@ -3,7 +3,7 @@
 <body>
 
 <!-- This is a comment -->
-<p>This is a paragraph.</p>
+<p>This is a Second git.</p>
 <!-- Comments are not displayed in the browser -->
 
 </body>
